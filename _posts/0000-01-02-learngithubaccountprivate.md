@@ -2,5 +2,6 @@
 layout :slide
 title: "Welcome to our second slide!"
 ---
-If you can read this, it worked.
+![GitHub Logo](/Desktop/github.png)
+Format: ![Alt Text](url)
 Use the left arrow to go back!
